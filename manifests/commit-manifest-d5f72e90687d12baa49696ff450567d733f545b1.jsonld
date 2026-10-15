@@ -1,0 +1,38 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/twisted/deferred/commit/d5f72e90687d12baa49696ff450567d733f545b1",
+  "@type": "git:Commit",
+  "git:hexsha": "d5f72e90687d12baa49696ff450567d733f545b1",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/twisted/deferred"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/d5f72e90687d12baa49696ff450567d733f545b1.nq.gz",
+      "repolex:graphFileSize": 841
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 202635
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 408
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-10-15T14:20:31.674854+00:00",
+  "repolex:parserVersion": "0.1.10"
+}

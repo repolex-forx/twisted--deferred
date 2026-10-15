@@ -1,0 +1,22 @@
+{
+  "manifest_version": "1.0",
+  "org": "twisted",
+  "repo": "deferred",
+  "versions": [
+    {
+      "commit": "d5f72e90687d12baa49696ff450567d733f545b1",
+      "parsed_at": "2026-10-15T14:20:31.674854+00:00",
+      "filetree": "filetree/d5f72e90687d12baa49696ff450567d733f545b1.nq.gz",
+      "blobs": [
+        "blob/c4ad6e16276f6a2605a746a833591edd70cfa5e2.nq.gz",
+        "blob/ddd2a0d668df4e4be7bb55f33f9a1dff8fcbff27.nq.gz",
+        "blob/c406012d3dbac4cfb9bc73830e95e87516736cf6.nq.gz",
+        "blob/0e39876f27d7b3896290b59574ab895d9ab08b13.nq.gz",
+        "blob/ba2cb007fa6eb72d0783355c0d530ee7a972f134.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz"
+}
