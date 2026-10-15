@@ -1,0 +1,11 @@
+{
+  "org": "twisted",
+  "repo": "deferred",
+  "versions": [
+    {
+      "commit": "d5f72e90687d12baa49696ff450567d733f545b1",
+      "tag": "",
+      "parsed_at": "2026-10-15T14:24:00.827106+00:00"
+    }
+  ]
+}
